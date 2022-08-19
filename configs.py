@@ -22,22 +22,26 @@ class Config(object):
 This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
+🤖 **My Name :** **[HMTD File Store (4GB)](https://t.me/{BOT_USERNAME})**
 
-📝 **Language:** [Python3](https://www.python.org)
+📝 **Language :** **[Python3](https://www.python.org)**
 
-📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
+📚 **Library :** **[Pyrogram](https://docs.pyrogram.org)**
 
-📡 **Hosted on:** [Heroku](https://heroku.com)
+📡 **Hosted on :** **[Heroku](https://heroku.com)**
 
-🧑🏻‍💻 **Developer:** @Ithunammacinema
+🧑🏻‍💻 **Developer :** **@HMTD_Links**
 
-👥 **Support Group:** [Linux Repositories](https://t.me/ithunammacinema)
+🌐 **Website :** **[HMTD Movies](https://hmtd-movies.blogspot.com/)**
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/+BOEhwL7-XaJlMGU1)
+🧑🏻‍ **Feedback :** **@HMTD_Feedback_Bot**
+
+👥 **Support Group :** **[Support Group](https://t.me/HMTD_Discussion_Group)**
+
+📢 **Updates Channel :** **[HMTD_Links](https://t.me/HMTD_Links)**
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @Ithunammacinema
+🧑🏻‍💻 **Developer:** **@HMTD_Links**
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
@@ -45,7 +49,7 @@ Also remember that developer will Delete Adult Contents from Database. So better
 
 """
 	HOME_TEXT = """
-Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
+**Hi👋, [{}](tg://user?id={})\n\nThis is Permanent HMTD File Store (4GB).**
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
+**I'm an HMTD Official Files Store Bot V4 Maintained by @HMTD_Links.Send me any File I will Give you a Permanent Sharable Link. Keep me Join to Our Official Channel to Receive Bot & Movies Updates in @HMTD_Links. I have Support Channel Also! Check "About Bot" Button.**
 """
