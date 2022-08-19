@@ -30,18 +30,18 @@ Send me any File I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on :** **[Heroku](https://heroku.com)**
 
-🧑🏻‍💻 **Developer :** **@HMTD_Links**
+🧑🏻‍💻 **Developer :** **[Karthik](https://t.me/HMTD_Links)**
 
 🌐 **Website :** **[HMTD Movies](https://hmtd-movies.blogspot.com/)**
 
-🧑🏻‍ **Feedback :** **@HMTD_Feedback_Bot**
+🧑🏻‍ **Feedback :** **[HMTD Feedback Bot](https://t.me/HMTD_Feedback_Bot)**
 
 👥 **Support Group :** **[Support Group](https://t.me/HMTD_Discussion_Group)**
 
-📢 **Updates Channel :** **[HMTD_Links](https://t.me/HMTD_Links)**
+📢 **Updates Channel :** **[HMTD Links](https://t.me/HMTD_Links)**
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** **@HMTD_Links**
+🧑🏻‍💻 **Developer :** **@HMTD_Links**
 
 **Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.**
 
