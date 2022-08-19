@@ -41,7 +41,7 @@ Send me any File I will save it in my Database. Also works for channel. Add me t
 📢 **Updates Channel :** **[HMTD Links](https://t.me/HMTD_Links)**
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer :** **@HMTD_Links**
+🧑🏻‍💻 **Developer :** **[Karthik](https://hmtd-movies.blogspot.com/)**
 
 **Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.**
 
@@ -49,7 +49,7 @@ Send me any File I will save it in my Database. Also works for channel. Add me t
 
 """
 	HOME_TEXT = """
-**Hi👋, [{}](tg://user?id={})\n\nThis is Permanent HMTD File Store Bot (4GB).**
+**Hi👋, [{}](tg://user?id={})💗\n\nThis is Permanent HMTD File Store Bot (4GB).**
 
 **I'm an HMTD Official File Store Bot (4GB) Maintained by @HMTD_Links.Send me any File I will Give you a Permanent Sharable Link. This Bot Support Upto 4GB File Also! Keep me Join to Our Official Channel to Receive Bot & Movies Updates in @HMTD_Links. I have Support Channel Also! Check "About Bot" Button.**
 """
